@@ -3,7 +3,7 @@ Title: Calculated Hourly Evapotranspiration
 Version: 0.0.0.9000
 Authors@R: person("Michael", "Grant", email = "mrgrant@uw.edu", role = c("aut", "cre"))
 Description: Takes in measured weather data including dewpoint temperature, wind speed, mean air temperature and solar radiation. All temperatures should be in farenheit, the wind speed should be in miles per hour and the solar radiation should be in watts/m^2*hour. 
-Depends: R (>= 3.3.3)
+Depends: R (>= 3.2.4)
 License: MIT
 Encoding: UTF-8
 LazyData: true
